@@ -7,5 +7,5 @@ The script requires Python 3 to be installed. No additional dependencies are req
 # Usage
 To use the script, run it from the command line like this:
 ```console
-python program.py <input file>
+python3 acunetix-csv-maker.py <input file>
 ```
